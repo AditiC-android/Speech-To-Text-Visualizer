@@ -1,3 +1,7 @@
+Created as a demonstrative tool to understand the inner-mechanics of speech to text in everyday devices.
+
+Work Cited:
+
 Dechant, Andreas, et al. 1609.09633. 30 Sept. 2016. arXiv, arxiv.org/pdf/1609.09633. Accessed 27 Feb. 2025.​
 
 Image of a normal distribution curve. All About Circuits, https://www.allaboutcircuits.com/uploads/articles/the-normal-distribution-understanding-probabilities-in-measured-data-rk-aac-image1.jpg.​
